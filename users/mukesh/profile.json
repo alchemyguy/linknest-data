@@ -4,7 +4,7 @@
   "displayName": "Mukesh Chandra",
   "bio": "",
   "avatarUrl": "",
-  "template": "classic",
+  "template": "minimal",
   "theme": {
     "primaryColor": "#6366f1",
     "backgroundColor": "#ffffff",
@@ -26,11 +26,11 @@
     {
       "id": "wt3901s",
       "platform": "instagram",
-      "url": "",
+      "url": "alchemyguy",
       "visible": true
     }
   ],
   "customLinks": [],
   "createdAt": "2025-12-17T04:01:17.568Z",
-  "updatedAt": "2025-12-17T04:02:16.269Z"
+  "updatedAt": "2025-12-17T04:02:33.037Z"
 }
