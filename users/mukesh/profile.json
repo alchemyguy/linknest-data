@@ -10,8 +10,15 @@
     "backgroundColor": "#ffffff",
     "textColor": "#1f2937"
   },
-  "socialLinks": [],
+  "socialLinks": [
+    {
+      "id": "613y6ai",
+      "platform": "twitter",
+      "url": "_alchemyguy",
+      "visible": true
+    }
+  ],
   "customLinks": [],
   "createdAt": "2025-12-17T04:01:17.568Z",
-  "updatedAt": "2025-12-17T04:01:35.956Z"
+  "updatedAt": "2025-12-17T04:01:51.313Z"
 }
